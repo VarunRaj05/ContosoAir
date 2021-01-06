@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/varunrajbalan/DevOps%20Project/_apis/build/status/VarunRaj05.ContosoAir?branchName=master)](https://dev.azure.com/varunrajbalan/DevOps%20Project/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
